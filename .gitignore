@@ -1,0 +1,8 @@
+*env_chap*
+*.pyc
+*__pycache*
+*~$
+
+redo/*
+redo-all-chapters/*
+
